@@ -25,11 +25,11 @@ I'm a passionate data aspiring focused on building practical and impactful softw
 
 ## 🌟 Featured Projects
 
-### [Bank_Project](https://github.com/jibanjyoti085-tech/RESUME-CLASSIFICATION-NLP-)
+### [NLP(Resume Classification)_Project](https://github.com/jibanjyoti085-tech/RESUME-CLASSIFICATION-NLP-)
 A comprehensive Python & ML-based NLP problem with MySQL backend .
 where i created a best model filter the resume which domain is  needed to the company , that model was do the best performance.
 
-### [tumor_detection](https://github.com/jibanjyoti085-tech/RECOMMENDATION-SYSTEM)
+### [Recommendation System](https://github.com/jibanjyoti085-tech/RECOMMENDATION-SYSTEM)
 A comprehensive Python & ML-based Classification problem with MySQL backend.where i build the model that was use which customer bought in site and which type of product he searched , my model recommended that type of very best product which was needed to the customer.
 
 ---
